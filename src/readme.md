@@ -72,6 +72,57 @@ git stash pop   -- to bring back/ resume from where you left of.
 
 
 
+## Problem statement 
+
+1. create a repository 
+2. add everyone to the repository 
+
+Collaboarators
+
+1.create Pull request for your feature_branch -----> to merge into staging branch 
+
+main    protected  - 3 approvals
+staging protected  - 2 approvals 
+
+
+
+
+main 
+
+staing 
+|
+|
+feature_branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
