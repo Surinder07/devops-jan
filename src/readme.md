@@ -10,3 +10,4 @@ git add .
 git commit -m "some message"
 git log  --- to find the last commits 
 
+// adding it to main
