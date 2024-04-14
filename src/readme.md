@@ -53,6 +53,16 @@ Task 1
 We ask our team to review our code ---PR review or pull request
 
 
+// I am working on the journal 101.... 
+
+## Stash
+whenever you want to save work in progress and continue from where you left off 
+git add .   -- to add to staging area
+git stash  --- to add to stash (WIP)
+
+....
+to resume 
+git stash pop   -- to bring back/ resume from where you left of.
 
 
 
